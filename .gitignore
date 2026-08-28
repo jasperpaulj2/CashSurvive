@@ -1,0 +1,30 @@
+# Python bytecode & cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Environments
+.venv/
+env/
+venv/
+ENV/
+
+# Databases & local state
+*.db
+*.sqlite
+*.sqlite3
+cashsurvive.db
+
+# IDE & OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env
+.env.local
